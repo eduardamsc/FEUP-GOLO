@@ -13,3 +13,4 @@ Work developed for Operations and Logistics' Management (GOLO).
 The following case studies consisted of articles on companies we must analyse, reflect upon and answer some questions on under a presentation.
 
 * 1 Pret-A-Manger & Whirlpool
+* 1 Dore-Dore
