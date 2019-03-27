@@ -9,7 +9,7 @@ Maria Francisca Paupério | up201403785@fe.up.pt
 
 Work developed for Operations and Logistics' Management (GOLO).
 
-note: Files ci_ are the reading sheets corresponding to individual case studies and files cg_ correspond to group case studies.
+note: Files caseStudyIndividual_ are the reading sheets corresponding to individual case studies and files caseStudy_ correspond to group case studies.
 
 ## Group Case Studies
 The following case studies consisted of articles on companies we must analyse, reflect upon and answer some questions on under a presentation as a group.
