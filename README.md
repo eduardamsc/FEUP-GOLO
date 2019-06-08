@@ -23,11 +23,3 @@ The following case studies consisted of papers on different subjects we must sum
 
 * 1 Service design and operations strategy formulation in multicultural markets
 * 2 A rich vehicle routing problem dealing with perishable food: a case study
-
-### Case Study 1: Service design and operations strategy formulation in multicultural markets
-The paper approaches the theme of operations strategy in multicultural markets and the authors reflect on the strategic trade-offs that service firms face when targeting multicultural customer segments simultaneously.
-The goal is to suggest an approach for determining the extent of service and process attributes standardization versus customization in multicultural settings.
-
-### Case Study 2: A rich vehicle routing problem dealing with perishable food: a case study
-aa
-
